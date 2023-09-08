@@ -1823,26 +1823,6 @@
                     ]
                 },
                 {
-                    "description": " p = page_down",
-                    "type": "basic",
-                    "from": {
-                        "key_code": "p",
-                        "modifiers": {
-                            "mandatory": [
-                                "right_command",
-                                "right_control",
-                                "right_shift",
-                                "right_option"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "key_code": "page_down"
-                        }
-                    ]
-                },
-                {
                     "description": "control + shift + enter = button1 (mouse left click)",
                     "type": "basic",
                     "from": {
@@ -2655,11 +2635,11 @@
                         }
                     ]
                 },
-                                {
+                {
                     "description": "移动到行尾",
                     "type": "basic",
                     "from": {
-                        "key_code": ";",
+                        "key_code": "semicolon",
                         "modifiers": {
                             "mandatory": [
                                 "right_command",
