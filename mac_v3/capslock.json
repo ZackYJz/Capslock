@@ -2628,9 +2628,9 @@
                     },
                     "to": [
                         {
-                            "key_code": "left_command",
+                            "key_code": "left_arrow",
                             "modifiers": [
-                                "left_arrow"
+                                "left_command"
                             ]
                         }
                     ]
@@ -2651,9 +2651,9 @@
                     },
                     "to": [
                         {
-                            "key_code": "left_command",
+                            "key_code": "right_arrow",
                             "modifiers": [
-                                "right_arrow"
+                                "left_command"
                             ]
                         }
                     ]
