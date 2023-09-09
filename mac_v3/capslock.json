@@ -4760,10 +4760,14 @@
                     },
                     "to": [
                         {
-                            "key_code": "delete_or_backspace",
+                            "key_code": "left_arrow",
                             "modifiers": [
+                                "left_shift",
                                 "left_command"
                             ]
+                        },
+                        {
+                            "key_code": "delete_or_backspace"
                         }
                     ]
                 },
